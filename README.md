@@ -31,3 +31,8 @@ npm run knex -- migrate:latest
 https://vitest.dev/
 https://jestjs.io/pt-BR/
 
+# Deploy em produção
+render.com
+fly.io
+railway.app
+
